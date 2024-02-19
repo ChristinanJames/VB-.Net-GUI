@@ -1,0 +1,14 @@
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\bin\Release\Cell Phone GUI.exe.config
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\bin\Release\Cell Phone GUI.exe
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\bin\Release\Cell Phone GUI.pdb
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\bin\Release\Cell Phone GUI.xml
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell_Phone_GUI.Form1.resources
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell_Phone_GUI.Resources.resources
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.vbproj.GenerateResource.Cache
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.exe
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.xml
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\Data Files\VbReloaded2012\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.pdb
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\GUI\Cell Phone GUI\bin\Release\Cell Phone GUI.exe.config
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.exe
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.xml
+C:\Users\Valued Customer\Documents\Visual Studio 2012\1285084160_401856\GUI\Cell Phone GUI\obj\Release\Cell Phone GUI.pdb

@@ -1,0 +1,10 @@
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\bin\Debug\Web Browser.exe.config
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web_Browser.Resources.resources
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\bin\Debug\Web Browser.exe
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\bin\Debug\Web Browser.pdb
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\bin\Debug\Web Browser.xml
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web Browser.exe
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web Browser.xml
+c:\users\valued customer\documents\visual studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web Browser.pdb
+C:\Users\Valued Customer\Documents\Visual Studio 2012\Projects\Web Browser Sloution\Web Browser\obj\Debug\Web_Browser.NosForm.resources
